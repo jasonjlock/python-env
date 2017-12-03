@@ -4,7 +4,7 @@ A Python development environment using Docker Compose.
 
 ## Getting Started
 
-Download and install Docker [Mac](https://www.docker.com/docker-mac) or [Windows.](https://www.docker.com/docker-windows)
+Download and install Docker for [Mac](https://www.docker.com/docker-mac) or [Windows.](https://www.docker.com/docker-windows)
 
 Clone this repository:
 
